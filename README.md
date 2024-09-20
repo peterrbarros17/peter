@@ -1,6 +1,6 @@
 ## Olá pessoas 👋
-
 ### Meu nome é Peter Ricardino Barros
+
 - **Email**: peterrbarros17@gmail.com
 
 ### Tech Stack
@@ -20,13 +20,3 @@
 - **JavaScript Avançado** - Instituto Nu e Descomplica (2023)
 - **Design Thinking, UX e Metodologias Ágeis** - Instituto Nu e Descomplica (2023)
 - **Introdução ao Desenvolvimento Web** - Instituto Nu e Descomplica (2023)
-
-### Languages
-- **English**: B1 - Intermediate
-
-### Connect with Me
-Estou sempre aberto a novas colaborações e discussões sobre projetos inovadores. Fique à vontade para entrar em contato!
-
-<!--
-**PeterRicardinoBarros/PeterRicardinoBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
