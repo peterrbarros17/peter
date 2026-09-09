@@ -76,24 +76,6 @@ My main responsibilities included:
 
 ---
 
-## 🧩 What I Like Working On
-
-```text
-Backend Development
-        ↓
-REST APIs
-        ↓
-Business Logic
-        ↓
-Database Design
-        ↓
-Testing
-        ↓
-Debugging & Problem Solving
-        ↓
-Reliable & Maintainable Systems
-````
-
 ## 🎓 Certifications
 - User eXperience for Games — descomplica faculdade digital
   - Issued: Sep 2025
